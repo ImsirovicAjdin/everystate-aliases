@@ -1,0 +1,44 @@
+{
+  "name": "@everystate/aliases",
+  "version": "1.0.1",
+  "description": "EveryState Aliases: Ergonomic single-character and short-name DOM aliases for vanilla JavaScript",
+  "type": "module",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node self-test.js"
+  },
+  "keywords": [
+    "everystate",
+    "dom",
+    "dom-aliases",
+    "vanilla-js",
+    "ergonomic",
+    "lightweight",
+    "zero-dependency",
+    "framework-free",
+    "dom-utilities",
+    "shorthand"
+  ],
+  "author": {
+    "name": "Ajdin Imsirovic",
+    "url": "https://www.linkedin.com/in/ajdin-imsirovic"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ImsirovicAjdin/everystate-aliases"
+  },
+  "homepage": "https://github.com/ImsirovicAjdin/everystate-aliases#readme",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "README.md"
+  ],
+  "exports": {
+    ".": {
+      "import": "./index.js",
+      "types": "./index.d.ts"
+    }
+  }
+}
