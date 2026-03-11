@@ -1,6 +1,6 @@
 {
   "name": "@everystate/aliases",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "EveryState Aliases: Ergonomic single-character and short-name DOM aliases for vanilla JavaScript",
   "type": "module",
   "main": "index.js",
